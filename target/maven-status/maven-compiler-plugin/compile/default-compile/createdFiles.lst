@@ -1,0 +1,16 @@
+com\wikan\crud_spring_boot\service\LokasiServiceImpl.class
+com\wikan\crud_spring_boot\service\ProyekLokasiService.class
+com\wikan\crud_spring_boot\repository\ProyekLokasiRepository.class
+com\wikan\crud_spring_boot\service\ProyekService.class
+com\wikan\crud_spring_boot\service\ProyekLokasiServiceImpl.class
+com\wikan\crud_spring_boot\model\Lokasi.class
+com\wikan\crud_spring_boot\controller\ProyekLokasiController.class
+com\wikan\crud_spring_boot\model\Proyek.class
+com\wikan\crud_spring_boot\controller\ProyekController.class
+com\wikan\crud_spring_boot\repository\ProyekRepository.class
+com\wikan\crud_spring_boot\controller\LokasiController.class
+com\wikan\crud_spring_boot\repository\LokasiRepository.class
+com\wikan\crud_spring_boot\service\LokasiService.class
+com\wikan\crud_spring_boot\CrudSpringBootApplication.class
+com\wikan\crud_spring_boot\model\ProyekLokasi.class
+com\wikan\crud_spring_boot\service\ProyekServiceImpl.class
